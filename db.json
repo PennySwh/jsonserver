@@ -4,9 +4,7 @@
       "name": "penny",
       "phone": "15606923823",
       "email": "15606923823@126.com",
-      "id": 1,
-      "age": 21,
-      "companyId": 1
+      "id": 1
     },
     {
       "name": "Bucky",
@@ -31,6 +29,36 @@
       "id": 4,
       "age": 24,
       "companyId": 3
+    },
+    {
+      "name": "111111",
+      "phone": "2",
+      "email": "3",
+      "education": "4",
+      "graduationschool": "5",
+      "profession": "6",
+      "profile": "77777777777",
+      "id": 5
+    },
+    {
+      "name": "11",
+      "phone": "22",
+      "email": "33",
+      "education": "44",
+      "graduationschool": "55",
+      "profession": "66",
+      "profile": "77",
+      "id": 6
+    },
+    {
+      "name": "gsgerger",
+      "phone": "bwerfes",
+      "email": "dgervfc",
+      "education": "afefcdscc",
+      "graduationschool": "artgtrg",
+      "profession": "bgrbrbt",
+      "profile": "nrsgbbbbg",
+      "id": 7
     }
   ],
   "companies": [
